@@ -1,0 +1,5 @@
+*.js.gz binary
+*.data.gz binary
+*.wasm.gz binary
+*.mem.gz binary
+*.symbols.json.gz binary
